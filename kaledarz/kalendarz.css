@@ -1,0 +1,50 @@
+@charset "UTF-8";
+
+* {
+margin:0;
+padding:0;
+font-family:Arial, Helvetica, sans-serif;
+color:white;
+}
+
+body {
+background-color:yellow
+}
+
+div {
+height:50vh;
+width:25vw;
+margin:3vw;
+padding:1vw;
+background-color:rebeccapurple;
+border-radius: 10%;
+}
+
+.left {
+float:left;
+}
+
+.right {
+float:right;
+}
+
+
+
+th, td {
+padding-top:0.5vh;
+padding-bottom:0.5vh;
+padding-left:1vw;
+padding-right:1vw;
+border:1px dotted goldenrod;
+text-align:center;
+}
+
+h1 {
+margin:0.5vw;
+margin-left:1vw;
+}
+
+
+table {
+margin-left:0.5vw;
+}
